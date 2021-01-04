@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/pithyone/wechat.svg?branch=master)](https://travis-ci.org/pithyone/wechat)
-[![Latest Stable Version](https://poser.pugx.org/pithyone/wechat/v/stable)](https://packagist.org/packages/pithyone/wechat)
-[![Latest Unstable Version](https://poser.pugx.org/pithyone/wechat/v/unstable)](https://packagist.org/packages/pithyone/wechat)
-[![License](https://poser.pugx.org/pithyone/wechat/license)](https://packagist.org/packages/pithyone/wechat)
+[![Build Status](https://travis-ci.org/baitu520/wxwork.svg?branch=master)](https://travis-ci.org/baitu520/wxwork)
+[![Latest Stable Version](https://poser.pugx.org/baitu520/wxwork/v/stable)](https://packagist.org/packages/baitu520/wxwork)
+[![Latest Unstable Version](https://poser.pugx.org/baitu520/wxwork/v/unstable)](https://packagist.org/packages/baitu520/wxwork)
+[![License](https://poser.pugx.org/baitu520/wxwork/license)](https://packagist.org/packages/baitu520/wxwork)
 
-# WeWork
+# WxWork
 
 > 最最最简单易用的企业微信SDK
 
@@ -18,9 +18,9 @@
 ## Installation
 
 ```bash
-composer require pithyone/wechat
+composer require baitu520/wxwork
 ```
 
 ## License
 
-[MIT](https://github.com/pithyone/wechat/blob/master/LICENSE)
+[MIT](https://github.com/baitu520/wxwork/blob/master/LICENSE)
